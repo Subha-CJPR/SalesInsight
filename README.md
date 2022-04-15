@@ -1,6 +1,6 @@
 For db_dump.sql: A Sales Report is generated before taking any feedback from seniors of an organization depicting the Sales Record from the 2017 to 2020 cycle.
 
-https://lnkd.in/gB_m7aqs
+https://www.linkedin.com/feed/update/urn:li:activity:6920546213368934400/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920546213368934400%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 For db_dump_version_2.sql: After taking feedback from my friends DEBANJAN GHOSH and Arhit Chatterjee, I have modified a few sections and added 2 more dashboards :
 
@@ -18,4 +18,4 @@ If you find it helpful, kindly make cheer up and comment on this post.
 
 For this Visualization, you need only MySQL and PowerBI. Tableau one will be uploaded soon.
 
-https://lnkd.in/gB_m7aqs
+https://www.linkedin.com/feed/update/urn:li:activity:6920558541611180033/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920558541611180033%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
